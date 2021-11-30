@@ -2,7 +2,7 @@
 **RAZ321/RAZ321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi there, I'm R Λ Z - aka [the creator of SPOTIRΛZ][website] 👋 
+### Hi there, I'm R Λ Z - AKA [The creator of SPOTIRΛZ][website] 👋 
 
 [![Website](https://img.shields.io/website?label=spotiraze.xyz&style=for-the-badge&url=https%3A%2F%2Fspotiraze.xyz)](https://spotiraze.xyz)
 [![Twitter Follow](https://img.shields.io/twitter/follow/RΛZ?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/)
