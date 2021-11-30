@@ -43,12 +43,8 @@
 ---
 
 <details>
- 
-</details>
 
-<details>
-
-  <img align="left" alt="RAZ321's GitHub Stats" src="https://github-readme-stats.raz321.vercel.app/api?username=RAZ321&show_icons=true&hide_border=true" />
+  <img align="left" alt="RAZ321's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RAZ321&show_icons=true&hide_border=true" />
 
 </details>
 
