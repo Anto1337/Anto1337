@@ -5,7 +5,7 @@
 ### Hi there, I'm R Λ Z - AKA [The creator of SPOTIRΛZ][website] 👋 
 
 [![Website](https://img.shields.io/website?label=spotiraze.xyz&style=for-the-badge&url=https%3A%2F%2Fspotiraze.xyz)](https://spotiraze.xyz)
-[![Twitter Follow](https://img.shields.io/twitter/follow/r a z?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/r_a_z_01)
+[![Twitter Follow](https://img.shields.io/twitter/follow/RΛZ?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/r_a_z_01)
 
 ## I'm a Developer & a Gamer!!
 
