@@ -46,10 +46,6 @@
 
 
 [website]: https://spotiraze.xyz
-[twitter]: https://twitter.com/
-[youtube]: https://youtube.com/
-[instagram]: https://instagram.com/
-[webdevplaylist]: https://www.youtube.com/
-[jsplaylist]: https://www.youtube.com/
-[cssplaylist]: https://www.youtube.com/
-[reactplaylist]: https://www.youtube.com/
+[twitter]: https://twitter.com/r_a_z_01
+[youtube]: https://youtube.com/channel/UChsxfMaiYMgRdWUZYd4neUQ
+[instagram]: https://www.instagram.com/anto.bb77/?utm_medium=copy_link
