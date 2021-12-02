@@ -7,7 +7,7 @@
 [![Website](https://img.shields.io/website?label=spotiraze.xyz&style=for-the-badge&url=https%3A%2F%2Fspotiraze.xyz)](https://spotiraze.xyz)
 [![Twitter Follow](https://img.shields.io/twitter/follow/R_A_Z_01?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/r_a_z_01)
 
-## I'm a Developer & a Gamer!!
+## I'm a Developer, Programer & a Gamer!!
 
 - 🔭 I just launched my discord bot: [SPOTIRΛZ][website]!
 - 🌱 I’m currently learning everything 🤣
